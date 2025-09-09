@@ -51,7 +51,7 @@ variable "subnets" {
       address_prefix_number = "2"
     },
     subnet_004 = {
-      name                  = "subnet004"
+      name                  = "subnet005"
       address_prefix_size   = "3"
       address_prefix_number = "3"
     },
